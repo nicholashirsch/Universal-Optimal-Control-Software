@@ -36,7 +36,7 @@ The 2nd, through 5th cost functionals are all forms of the [LQR cost functional]
 
 
 ### Are there any alternatives to UOCS?
-Yes! UOCS has many limitations, primarily the inability to handle event constraints, inaccuracy on bang-bang control probelmsand the fact that it's optimizer, Mathworks' [fmincon](https://www.mathworks.com/help/optim/ug/fmincon.html) is not the most robust. If UOCS ever falls short of user need, or a more professional optimal control software is desied, Dr. Anil V. Rao's [GPOPS-II](https://gpops2.com/index.html) can be acquired at a reasonable price.
+Yes! UOCS has many limitations, primarily the inability to handle event constraints, inaccuracy on bang-bang control probelms, and the fact that it's optimizer - Mathworks' [fmincon](https://www.mathworks.com/help/optim/ug/fmincon.html) - is not the most robust. If UOCS ever falls short of user need, or a more professional optimal control software is desied, Dr. Anil V. Rao's [GPOPS-II](https://gpops2.com/index.html) can be acquired at a reasonable price.
 
 
 ### Can I use UOCS in my project?
